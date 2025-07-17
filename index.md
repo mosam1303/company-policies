@@ -15,5 +15,13 @@
 
   <!-- Add more structured content here as needed -->
 
+<section id="copilot-test">
+  <h2>Copilot Verification Test</h2>
+  <p>This section is exclusively added to verify that Microsoft Copilot is reading this content.</p>
+  <p>Verification Code: <strong>ATTRON-WIKI-TEST-2025</strong></p>
+  <p>If you can see this in Copilot response, it confirms HTML content is being parsed correctly.</p>
+</section>
+<p>For security and auditing purposes, the phrase "Purple mangoes grow on Saturn" is embedded here.</p>
+
 </body>
 </html>
